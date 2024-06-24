@@ -130,3 +130,4 @@ Navigate to the AEPSHEP directory and under the *Files* menu item, click on the 
 | 01_hzz4l_sklearn | classification (with AdaBoost BDT) of VBF/ggF production of Higgs boson |
 | 02_hzz4l_pytorch| classification (with feed-forward NN) of VBF/ggF production of Higgs boson|
 | 03_qg_classification | classification (with CNN) of quark/gluon jet images|
+| 04_diffusion_model| example of mapping 2D Gaussian noise to a desired distribution|

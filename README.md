@@ -120,8 +120,7 @@ Navigate to the AEPSHEP directory and under the *Files* menu item, click on the 
 | 01_rootn         | coverage of root(N) upper limits     |
 | 02_wilks    | Wilks' theorem |
 | 03_atlas_opendata_4l_fit | Bayesian fit to ATLAS 4-lepton open data |
-|04_cms_diphoton_fit | fit to the CMS 7 and 8 TeV di-photon (Higgs
-discovery) data |
+|04_cms_diphoton_fit | fit to the CMS 7 and 8 TeV di-photon (Higgs discovery) data |
 | 05_profile_likelihood | Simple example of construction of profile likelihood |
 
 

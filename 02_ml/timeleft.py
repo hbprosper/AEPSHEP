@@ -63,10 +63,11 @@ class TimeLeft:
                 
             yield ii
             
-    def __call__(self, ii, extra=''):
+    def __call__(self, ii, extra='', colorize=False):
         
         if extra != '':
-            extra = "\x1b[1;34;48m|%s\x1b[0m" % extra
+            if colorize:
+               extra = "\x1b[1;34;48m|%s\x1b[0m" % extra
            
         if ii < self.N-1:
             print(f'\r{self.__timestr(ii):s}{extra:s}', end='')
